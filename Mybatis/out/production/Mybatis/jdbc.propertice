@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://txpan:3306/db1
+username=root
+password=Pkl19980720
