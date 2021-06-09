@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="#" method="GET" id="reg">
+        账号：<input type="text" id="username">
+        密码：<input type="text" id="password">
+        <input type="button" value="注册">
+    </form>
+    <script>
+        document.getElementById("reg").onsubmit()=function(){
+            let username = document.getElementById("username").value;
+            let password = document.getElementById("password").value;
+            
+            let reg1 = /^[a-zA-Z]{4,16}$/;
+            if(!reg1.test(username)){
+                alert("请输入4到16为的字母！");
+                return false;
+            }
+
+            let reg2 = /^[\D]{6}$/;
+            if(!reg2.test(password)){
+                alert("请输入6位数字！");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</body>
+</html>

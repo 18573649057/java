@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="238404cc-7523-42b0-bb32-79cce7139e5d" name="Default Changelist" comment="" />
+    <list default="true" id="238404cc-7523-42b0-bb32-79cce7139e5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JSP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test_web1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test_web1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            <state>
+              <caret selection-end-line="32" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -67,6 +71,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,18 +99,19 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="42" />
     <option name="y" value="52" />
     <option name="width" value="1440" />
     <option name="height" value="798" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,7 +152,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,17 +283,18 @@
       <workItem from="1622639867914" duration="186000" />
       <workItem from="1622640075067" duration="1801000" />
       <workItem from="1622857343394" duration="8000" />
+      <workItem from="1623236165803" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7405000" />
+    <option name="totallyTimeSpent" value="7414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="52" width="1440" height="798" extended-state="0" />
+    <frame x="0" y="32" width="1440" height="798" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -365,9 +374,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Test_web1/src/com/itheima/servlet/StudentServlet.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Test_web1/src/com/itheima/servlet/StudentServlet.java" />
     <entry file="file://$PROJECT_DIR$/src/Servlet/AddServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
@@ -424,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        <state>
+          <caret selection-end-line="32" selection-end-column="7" />
         </state>
       </provider>
     </entry>

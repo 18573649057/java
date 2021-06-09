@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        注册成功！<span id="time">5</span>秒钟后跳转到首页
+    </p>
+</body>
+<script>
+    let num  = 5;
+    function show(){
+        num--;
+        if(num<=0){
+            location.href="math.html"
+        }
+
+        let span = document.getElementById("time");
+        span.innerHTML=num;
+
+    }
+    setInterval("show()",1000);
+    
+</script>
+</html>
