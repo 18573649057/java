@@ -27,7 +27,7 @@ public class selectBy extends HttpServlet {
             s.setName(student1.getName());
             s.setAge(student1.getAge());
         }
-        System.out.println(s);
+
         req.setAttribute("s",s);
         req.getRequestDispatcher("show1.jsp").forward(req,resp);
 

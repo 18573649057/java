@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li id="q">张三</li>
+        <li class="w">李四</li>
+        <li class="w">王五</li>
+    </ul>
+</body>
+<script src="./js/jquery-3.3.1.min.js"> 
+</script>
+<!-- <script>
+    let list = $("li");
+    $.each(list,function(index,ele){
+        alert(index + "," + ele.innerHTML);
+    })
+</script> -->
+
+<!-- <script>
+    let list = $("li");
+    $(list).each(function(index,ele){
+        alert(index + "," + ele.innerHTML);
+    })
+</script> -->
+<script>
+    let q = $("#q");
+    alert(q);
+
+    let w = $(".w");
+    alert(w);
+</script>
+</html>

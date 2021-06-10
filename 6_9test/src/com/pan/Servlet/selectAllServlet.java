@@ -15,9 +15,6 @@ public class selectAllServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         List<Student> list = selectStudentDao.selectAll();
-        for (Student student : list) {
-            System.out.println(student);
-        }
         req.setAttribute("list",list);
         req.getRequestDispatcher("show.jsp").forward(req,resp);
     }

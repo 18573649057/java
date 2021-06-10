@@ -8,7 +8,7 @@ public class getsql {
         return new SQL() {
             {
                 SELECT("*");
-                FROM("student");
+                FROM("stu");
                 if (student.getName()!=null){
                     WHERE("name=#{name}");
                 }
