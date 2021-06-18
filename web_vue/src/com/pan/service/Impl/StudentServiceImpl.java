@@ -26,8 +26,12 @@ public class StudentServiceImpl implements StudentService {
     }
 
     @Override
-    public void addStu(Student stu) {
-
+    public void addStu(Student stu) throws IOException {
+        InputStream is = Resources.getResourceAsStream("MyBatisConfig.xml");
+        SqlSessionFactory sqlSessionFactory = new SqlSessionFactoryBuilder().build(is);
+        SqlSession sqlSession = sqlSessionFactory.openSession(true);
+        StudentMapper mapper = sqlSession.getMapper(StudentMapper.class);
+        mapper.addStu(stu);
     }
 
     @Override

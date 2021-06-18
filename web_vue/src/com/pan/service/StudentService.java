@@ -17,7 +17,7 @@ public interface StudentService {
     /*
         添加数据方法
      */
-    public abstract void addStu(Student stu);
+    public abstract void addStu(Student stu) throws IOException;
 
     /*
         修改数据方法
