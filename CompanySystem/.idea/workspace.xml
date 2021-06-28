@@ -6,27 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="438f8386-9cd1-484b-9757-28aefa8c4c84" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../JSP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompanySystem.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/Servlet/CompanyServlet.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/Utils/MybatisUtils.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/bean/Company.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/controller/CompanyService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/controller/CompanyTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/controller/Impl/CompanyServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/dao/CompanyDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatisConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/system/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/system/user/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/base.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/home/aside.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/home/footer.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/home/header.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/home/home.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/home/main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/home/aside.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/store/company/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/store/company/list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pan/Utils/MybatisUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pan/bean/Company.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pan/controller/CompanyService.class" beforeDir="false" />
@@ -221,39 +210,43 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1624022190946" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/com/pan/dao/store" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/pan/web/controller" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/com/pan/dao/store" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/pan/service/store/Impl" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/pan/service/store" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/pan/bean/store" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/pan/dao/store" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/pan/web/controller" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/pan/service" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/pan/Dao/system" />
+      <recent name="$PROJECT_DIR$/src/main/resources/com/pan/Dao/store" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/pan/Dao" />
       <recent name="$PROJECT_DIR$/src/main/resources/com/pan/dao" />
       <recent name="$PROJECT_DIR$/src/main/resources/com/pan" />
       <recent name="$PROJECT_DIR$/src/main/resources/com" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pan.domain" />
       <recent name="com.pan.service.system" />
       <recent name="com.pan.web" />
       <recent name="com.pan.bean.system" />
       <recent name="com.pan.Servlet.store" />
-      <recent name="com.pan.bean.store" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pan.web.controller.store" />
+      <recent name="com.pan.service.store.Impl" />
+      <recent name="com.pan.Dao.store" />
       <recent name="com.pan.web.Servlet.system" />
     </key>
   </component>
@@ -384,6 +377,11 @@
       <workItem from="1624602869578" duration="210000" />
       <workItem from="1624606284665" duration="44000" />
       <workItem from="1624606430748" duration="407000" />
+      <workItem from="1624607832429" duration="4179000" />
+      <workItem from="1624612466972" duration="192000" />
+      <workItem from="1624612711539" duration="689000" />
+      <workItem from="1624618719029" duration="19000" />
+      <workItem from="1624618771646" duration="570000" />
     </task>
     <servers />
   </component>
