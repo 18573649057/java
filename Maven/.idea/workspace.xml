@@ -1,40 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="330e7b0d-386d-46c8-9987-4d55c172bbef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CompanySystem/src/main/java/com/pan/domain/store/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/store/CatalogDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/domain/store/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CompanySystem的副本/src/main/webapp/WEB-INF/pages/home/footer.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JSP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/.idea/Vue615.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/.idea/Vue615.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/.idea/artifacts/web_vue_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/.idea/web_vue.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/src/MyBatisConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/src/MyBatisConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/src/com/pan/controller/StudentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/src/com/pan/controller/StudentServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/src/com/pan/service/Impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/src/com/pan/service/Impl/StudentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/src/com/pan/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/src/com/pan/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/src/com/pan/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/src/com/pan/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../web_vue/src/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/src/main/java/com/pan/bean/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/src/main/java/com/pan/controller/CompanyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem的副本/src/main/java/com/itheima/service/store/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/src/main/webapp/WEB-INF/pages/home/aside.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/bean/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/store/CatalogDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/src/main/resources/com/pan/Dao/store/CatalogDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/store/CompanyDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/store/CompanyDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/store/CompanyDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/store/CompanyDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/store/CourseDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/store/CourseDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/store/QuestionDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/store/QuestionDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/store/QuestionItemDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/store/QuestionItemDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/store/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/store/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/system/DeptDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/system/DeptDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/system/ModuleDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/system/ModuleDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/system/RoleDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/system/RoleDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/dao/system/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompanySystem/target/classes/com/pan/Dao/system/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompanySystem/target/classes/mybatisConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/modules.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/maven01/target/" />
-    <ignored path="$PROJECT_DIR$/Web01/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Web01/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -92,6 +91,7 @@
     <option name="width" value="1440" />
     <option name="height" value="796" />
   </component>
+  <component name="ProjectId" id="1ubvTPJSwAImWefbxQJmOdCzaey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -152,6 +152,10 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -163,18 +167,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -195,6 +187,7 @@
       <workItem from="1623997603323" duration="170000" />
       <workItem from="1623999625773" duration="768000" />
       <workItem from="1624000447180" duration="1652000" />
+      <workItem from="1624947115436" duration="6000" />
     </task>
     <servers />
   </component>

@@ -5,26 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="438f8386-9cd1-484b-9757-28aefa8c4c84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CompanySystem的副本/src/main/webapp/WEB-INF/pages/home/footer.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JSP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/Utils/MybatisUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/bean/Company.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/controller/CompanyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/controller/CompanyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pan/controller/Impl/CompanyServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/home/aside.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/store/company/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/store/company/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/Utils/MybatisUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pan/bean/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/controller/CompanyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/controller/CompanyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/controller/Impl/CompanyServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/CompanyDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatisConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web_vue/.idea/web_vue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/store/CatalogDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/store/CatalogDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/store/CompanyDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/store/CompanyDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/store/CompanyDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/store/CompanyDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/store/CourseDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/store/CourseDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/store/QuestionDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/store/QuestionDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/store/QuestionItemDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/store/QuestionItemDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/store/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/store/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/system/DeptDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/system/DeptDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/system/ModuleDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/system/ModuleDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/system/RoleDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/system/RoleDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pan/dao/system/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pan/Dao/system/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,6 +382,7 @@
       <workItem from="1624612711539" duration="689000" />
       <workItem from="1624618719029" duration="19000" />
       <workItem from="1624618771646" duration="570000" />
+      <workItem from="1625281870680" duration="1000" />
     </task>
     <servers />
   </component>
