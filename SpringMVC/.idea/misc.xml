@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Documents/Java/18-SpringMVC（双元）/day01/代码/springmvc_base" />
+    <file type="web" url="file://$USER_HOME$/Documents/Java/18-SpringMVC（双元）/day02/代码/springmvc_test_interceptor/springmvc_test_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/mvc_day01_zuoye" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/springbase" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springbase/pom.xml" />
+        <option value="$USER_HOME$/Documents/Java/18-SpringMVC（双元）/day01/代码/springmvc_base/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc_day01_zuoye/pom.xml" />
+        <option value="$USER_HOME$/Documents/Java/18-SpringMVC（双元）/day02/代码/springmvc_test_interceptor/springmvc_test_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
