@@ -35,7 +35,7 @@ public class esconfig {
                 new HttpHost(
                         host,
                         port,
-                        "http"
+                        "http1"
                 )
         ));
     }
